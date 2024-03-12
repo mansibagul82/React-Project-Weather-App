@@ -1,6 +1,6 @@
-# 🌫️🌥️☀️🌈🌪️🌨️🌙 Weather App 🌫️🌥️☀️🌈🌪️🌨️🌙
+# Weather App
 
-### 💐 Welcome to the Weather App! This is a simple web application built using React.js. It provides real-time weather information using a weather API, along with various features such as state management, Luxon for time handling, UI components from UilReact, icons, and notifications using Toastify.
+Welcome to the Weather App! This is a simple web application built using React.js. It provides real-time weather information using a weather API, along with various features such as state management, Luxon for time handling, UI components from UilReact, icons, and notifications using Toastify.
 
 ## Features
 
@@ -22,7 +22,7 @@
 
 ## Installation
 
-### To run this application locally, follow these steps:
+To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
@@ -41,16 +41,14 @@ Once the application is running, you can:
 
 ## Credits
 
-- The weather data is sourced from [https://openweathermap.org/api].
-- Icons and UI components are provided by [UilReact](https://www.npmjs.com/package/@iconscout/react-unicons).
+- The weather data is sourced from [insert API provider here].
+- Icons and UI components are provided by [UilReact](https://github.com/ashutosh1919/uil).
 - This project is built with the help of various open-source libraries and resources.
 
-## Go Live To See Weather App
+## License
 
-<img alt="" src=" " />
+[Insert license information here]
 
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
-
-===================================****========================================
