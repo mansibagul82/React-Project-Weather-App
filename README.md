@@ -1,8 +1,9 @@
-# Weather App
+# 🌞🌛☁️🌦️🌫️ Weather App 🌞🌛☁️🌦️🌫️
 
- Welcome to the Weather App! This is a simple web application built using React.js. It provides real-time weather information using a weather API, along with various features such as state management, Luxon for time handling, UI components from UilReact, icons, and notifications using Toastify.
+ 💐 Welcome to the Weather App! This is a simple web application built using React.js. It provides real-time weather information using a weather API, along with various features such as state 
+ management, Luxon for time handling, UI components from UilReact, icons, and notifications using Toastify.
 
-## Features
+## ⭐ Features ⭐
 
 - Real-time weather information display
 - State management for better control and reactivity
@@ -11,7 +12,7 @@
 - Weather icons for better visualization
 - Notifications using Toastify for user alerts
 
-## Technologies Used
+## ⭐ Technologies Used ⭐
 
 - **React.js**: Used for building the user interface and managing the application's state.
 - **UilReact**: Provides UI components and icons for the application.
@@ -20,7 +21,11 @@
 - **Luxon**: Used for handling time and date related functionalities.
 - **Toastify**: Integrated for displaying notifications to the user.
 
-## Installation
+## ⭐ Tech Stack ⭐
+
+ React.
+
+## ⭐ Installation ⭐
 
 To run this application locally, follow these steps:
 
@@ -31,7 +36,7 @@ To run this application locally, follow these steps:
 5. Start the development server:
 6. Open your browser and navigate to `http://localhost:3000` to view the app.
 
-## Usage
+## ⭐ Usage ⭐
 
 Once the application is running, you can:
 
@@ -39,15 +44,17 @@ Once the application is running, you can:
 - Explore additional details such as humidity, wind speed, etc.
 - Receive notifications for important updates or alerts regarding weather changes.
 
-## Credits
+## ⭐ Credits ⭐
 
 - The weather data is sourced from [insert API provider here].
 - Icons and UI components are provided by [UilReact](https://github.com/ashutosh1919/uil).
 - This project is built with the help of various open-source libraries and resources.
 
-## Go Live To Watch Weather App
+## 🎬 Go Live To Watch Weather App
+[WeatherApp](https://react-project-fawn-eight.vercel.app/)
 
-
-## Contributing
+## ⭐ Contributing ⭐
 
 Contributions are welcome! Feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvements.
+
+==========================================****==========================================
